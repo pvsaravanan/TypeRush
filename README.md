@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
 
-## Project info
+# ⌨️ TypeRush
 
-**URL**: https://lovable.dev/projects/77ca8df6-b53e-4fbf-9179-fbc4e3ebf862
+**TypeRush** is a sleek typing speed test web application built with pure HTML, CSS, and JavaScript. It helps users improve their typing skills by tracking **Words Per Minute (WPM)** and **accuracy** with real-time feedback.
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 🖊️ Random sentence generation
+- ⚡ Real-time WPM and accuracy tracking
+- ✅ Instant feedback on correct/incorrect characters
+- 📉 Live stats dashboard
+- 🎯 Clean and modern UI
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/77ca8df6-b53e-4fbf-9179-fbc4e3ebf862) and start prompting.
+- HTML5
+- CSS3
+- JavaScript
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📁 Project Structure
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+TypeRush/
+│
+├── index.html       # Main HTML page
+├── style.css        # Styling
+├── script.js        # App logic
+└── README.md        # Project info
 ```
 
-**Edit a file directly in GitHub**
+## 📦 How to Run
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. Download or clone the repo:
+   ```bash
+   git clone https://github.com/pvsaravanan/TypeRush.git
+   ```
+2. Open `index.html` in any modern browser.
 
-**Use GitHub Codespaces**
+## ✅ Upcoming Enhancements
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Leaderboard with high scores
+- Difficulty levels
+- Typing history and performance graph
+- Dark/light mode toggle
 
-## What technologies are used for this project?
+## 📄 License
 
-This project is built with:
+This project is open-source under the [MIT License](LICENSE).
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/77ca8df6-b53e-4fbf-9179-fbc4e3ebf862) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
