@@ -32,7 +32,7 @@ TypeRush/
 
 1. Download or clone the repo:
    ```bash
-   git clone https://github.com/pvsaravanan/TypeRush.git
+   git clone https://github.com/musfiramahjabeen/TypeRush.git
    ```
 2. Open `index.html` in any modern browser.
 
