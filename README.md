@@ -1,4 +1,3 @@
-
 # ⌨️ TypeRush
 
 **TypeRush** is a sleek typing speed test web application built with pure HTML, CSS, and JavaScript. It helps users improve their typing skills by tracking **Words Per Minute (WPM)** and **accuracy** with real-time feedback.
